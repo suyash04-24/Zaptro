@@ -1,4 +1,4 @@
-<h1 align="center">🛒 Zayrah - Modern eCommerce Web App</h1>
+<h1 align="center">🛒 Zaptro- Modern eCommerce Web App</h1>
 
 <p align="center">
   <b>Built with MERN Stack | Fast ⚡ | Responsive 📱 | Full-Featured 🛍️</b><br/>
@@ -8,7 +8,7 @@
 
 ## ✨ Overview
 
-**Zayrah** is a full-featured eCommerce platform where users can explore products, manage carts, and place secure orders. Admins can manage inventory, view orders, and oversee platform analytics — all within a clean and intuitive UI.
+**Zaptro** is a full-featured eCommerce platform where users can explore products, manage carts, and place secure orders. Admins can manage inventory, view orders, and oversee platform analytics — all within a clean and intuitive UI.
 
 ---
 
@@ -42,5 +42,5 @@
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/suyash04-24/Zayrah.git
-cd Zayrah
+git clone https://github.com/suyash04-24/Zaptro.git
+cd Zaptro
